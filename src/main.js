@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
-
+// 引入bootstrap库
+import "bootstrap/dist/css/bootstrap.css"
 Vue.config.productionTip = false
 
 new Vue({
